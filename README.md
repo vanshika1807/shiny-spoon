@@ -1,2 +1,2 @@
-# shiny-spoon
+# shiny-spoons
 
